@@ -1,1 +1,1 @@
-# CourseraAssignment
+# Please read Coursera_Capstone
